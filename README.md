@@ -1,3 +1,5 @@
 # ethereum-contract-example
 
-In this example, a smart contract for a simple online marketplace. This contract will let users list an item for sale and buy an available item. There are two roles involved: a seller and a buyer.
+Testing simple contract using "Blockchain Development Kit for Ethereum" plugin for VS Code
+
+* Create a simple project witch the command pallet : `Blockchain: New Solidity Project`
